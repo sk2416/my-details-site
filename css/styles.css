@@ -16,7 +16,7 @@ p {
 
 .big-heading {
   font-family: "Montserrat-Black";
-  font-size: 3.5rem;
+  font-size: 1.5rem;
   line-height: 1.5;
 }
 
@@ -41,7 +41,7 @@ p {
 }
 
 .white-section {
-  background-color: #fff;
+  background-color: #222831;
 }
 
 /* Navigation Bar */
